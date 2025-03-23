@@ -10,7 +10,7 @@ This is a Power BI dashboard that provides a visual overview of emergency room d
 ## Dashboard 3 : Pateints Details
 ![Patient Details](https://github.com/user-attachments/assets/8b47d5fc-8267-4ccb-b038-20006ad61a24)
 
-## 📂 Dataset use
+## Dataset use
  
 - <a href="https://github.com/ha1shu/Hospital-Emergency-Rooms-Dashboard/blob/main/Hospital%20ER_Data.csv">Hospital data set Table</a>
 
