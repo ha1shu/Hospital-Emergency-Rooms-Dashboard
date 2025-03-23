@@ -1,12 +1,14 @@
 # 🏥 Hospital Emergency Rooms Dashboard - Power BI Project
-
-![Monthly View](https://github.com/user-attachments/assets/f90c6a78-c9ac-4c0c-8b6d-5ec1e0209709)
-![Consolidated View](https://github.com/user-attachments/assets/e6c52355-225c-47a4-af57-9c91d94c0be9)
-![Patient Details](https://github.com/user-attachments/assets/8b47d5fc-8267-4ccb-b038-20006ad61a24)
-
 ## 📌 Project Overview
 
 This is a Power BI dashboard that provides a visual overview of emergency room data. It includes key metrics, visual insights, and patterns related to patient visits, referrals, wait times, and demographics. The goal is to help hospital teams make informed decisions based on data.
+
+## Dashboard 1 : Monthly View
+![Monthly View](https://github.com/user-attachments/assets/f90c6a78-c9ac-4c0c-8b6d-5ec1e0209709)
+## Dashboard 2 : Consolidated View
+![Consolidated View](https://github.com/user-attachments/assets/e6c52355-225c-47a4-af57-9c91d94c0be9)
+## Dashboard 3 : Pateints Details
+![Patient Details](https://github.com/user-attachments/assets/8b47d5fc-8267-4ccb-b038-20006ad61a24)
 
 ## 📂 Dataset use
  
